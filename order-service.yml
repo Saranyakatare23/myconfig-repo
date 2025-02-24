@@ -4,3 +4,5 @@ server:
 spring:
   application:
     name: order-service
+
+message: "Hello from Config Server"
